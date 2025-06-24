@@ -1,13 +1,10 @@
 # Turing_Machine_Repeated_String
-# Penyelesaian Puzzle Rush Hour Menggunakan Algoritma Pathfinding
+# Penyelesaian Mesin Turing untuk Permasalahan Keputusan Verifikasi String Self-Copy 
 
 ## Deskripsi
-Rush Hour adalah permainan puzzle logika berbasis grid yang menantang pemain untuk menggeser kendaraan agar mobil utama (P) dapat keluar melalui pintu keluar (K). Setiap kendaraan hanya bisa bergerak lurus sesuai orientasinya (horizontal/vertikal).
+Program Mesin Turing untuk memverifikasi apakah suatu string self-copy atau tidak.
 
 ## Instalasi & Penggunaan
-
-### Prasyarat
-- g++ compiler untuk C++
 
 ### Langkah-langkah
 1. **Clone Repository**
