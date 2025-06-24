@@ -4,7 +4,6 @@
 ## Deskripsi
 Program Mesin Turing untuk memverifikasi apakah suatu string self-copy atau tidak.
 
-## Instalasi & Penggunaan
 
 ### Langkah-langkah
 1. **Clone Repository**
